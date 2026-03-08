@@ -16,7 +16,7 @@ export function HeroSection() {
         playsInline
         className="absolute inset-0 w-full h-full object-cover z-0"
       >
-        <source src="/hero-bg.mp4" type="video/mp4" />
+        <source src="https://cdn.jumpshare.com/preview/OOiZ2hSlDOCeJDkPDodiZTnJlzHRqYuaKAihzRQCZ-gKjSf0Yxd4vp8Msw64n72qTGlQfnL6YBTf7FnWw5Iuc7B40CecBlsb2ao1JvxwA0aSnlU9rVBKEz_PEbbEM1FQLBUt2ct3dHzV0BHDESPowW6yjbN-I2pg_cnoHs_AmgI.mp4" type="video/mp4" />
       </video>
 
       {/* Dark overlay for readability */}
