@@ -16,7 +16,7 @@ export function HeroSection() {
         playsInline
         className="absolute inset-0 w-full h-full object-cover z-0"
       >
-        <source src="https://cdn-cf-east.streamable.com/video/mp4/4seq5s.mp4?Expires=1773252502025&Key-Pair-Id=APKAIEYUVEN4EVB2OKEQ&Signature=JME9Ti0cM1tQ0WPVRVziJNv22vkDm64kJibsQBZGtwKMpDa4MG4ZdEiqc5ugxOEqVc3LTdKiz79w0bpi~pWpWJnT8-9rMO73AUgpzhtw5hR4030FB6LJLZGPdp1uWUu2D1fqo5sR5kaaGQXj0jBVb6atoOn-tzz9PaKH2Xf7zCyeib4phyvUG35Rh48nkDqTb3TBzJ9VODo21G6vwBPtywFcxYAVBcF9C94Tz4EqMM5RaY2c0dxNBY8WtUbioNYWVsgftGuN8PJurbIQaNWeItyoFY2m4TOJj8-mdty3TE1um8viGDapOg8wrWQ3RcMw0vlSCRXh1juJ7bd~fAIS8A__" type="video/mp4" />
+        <source src="/hero-bg.mp4" type="video/mp4" />
       </video>
 
       {/* Dark overlay for readability */}
